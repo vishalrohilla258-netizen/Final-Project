@@ -1,0 +1,31 @@
+[
+    {
+      "planName": "Hobby",
+      "price": 29,
+      "billingCycle": "monthly",
+      "description": "The perfect plan if you're just getting started with our product.",
+      "features": [
+        "25 products",
+        "Up to 10,000 subscribers",
+        "Advanced analytics",
+        "24-hour support response time"
+      ],
+      "buttonText": "Get started today",
+      "buttonUrl": "/signup"
+    },
+    {
+      "planName": "Enterprise",
+      "price": 99,
+      "billingCycle": "monthly",
+      "description": "Perfect for large teams and businesses that need advanced features.",
+      "features": [
+        "Unlimited products",
+        "Up to 100,000 subscribers",
+        "All features included",
+        "24/7 support"
+      ],
+      "buttonText": "Get started today",
+      "buttonUrl": "/signup"
+    }
+  ]
+  
